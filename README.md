@@ -4,6 +4,7 @@
 I am a CS Enthusiast
   </h1>
  <img src = https://source.unsplash.com/1600x900/?developer >
+ <i>Welcome To Fade's Digital Marketing Agency</i>
  
 
 <p>
@@ -13,6 +14,5 @@ Ask Me Questions about
     c<br>
     JavaScript<br>
     In a learning stage of Rust<br>
-    Don't ask me Java<br>
   </h4></p>
   
