@@ -3,7 +3,7 @@
 <h1>
 I am a Marketing Enthusiast
   </h1>
- <img src = https://source.unsplash.com/1200x400/?Marketing >
+ <img src = https://source.unsplash.com/1100x400/?Marketing >
  <i>Welcome To Fade's Digital Marketing Agency</i>
  
 
