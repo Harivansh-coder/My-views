@@ -3,7 +3,7 @@
 <h1>
 I am a CS Enthusiast
   </h1>
- <img src = https://source.unsplash.com/1600x900/?developer >
+ <img src = https://source.unsplash.com/1600x900/?nature >
  <i>Welcome To Fade's Digital Marketing Agency</i>
  
 
