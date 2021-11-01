@@ -13,6 +13,6 @@ Ask Me Questions about
     SEO<br>
     Content Writing<br>
     learning facebook Ads<br>
-    Any Question <br>Join me on <a href = https://www.instagram.com/avii_kauran/ alt = Inatagram>Inatagram</a>
+    Any Question <br><tab>Join me on <a href = https://www.instagram.com/avii_kauran/ alt = Instagram>Instagram</a>
   </h4></p>
   
